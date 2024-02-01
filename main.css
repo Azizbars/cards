@@ -1,0 +1,167 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+/* card */
+
+.cards {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.card {
+  width: 263px;
+  background-color: #ff4f52;
+  padding: 30px 25px 18px 25px;
+
+  border-radius: 10px;
+  text-align: center;
+}
+
+.card__img-block {
+  margin-bottom: 19px;
+}
+.card_title {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.card_text {
+  color: aqua;
+  margin-bottom: 27px;
+}
+
+/* card */
+.card2 {
+  width: 263px;
+  background-color: #262d33;
+  padding: 30px 25px 18px 25px;
+  margin: 50px;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 19px;
+}
+.card2_title2 {
+  color: #fff;
+  margin: 10px;
+}
+
+.card_text2 {
+  color: #ff4f52;
+  margin: 10px;
+}
+
+.card__img-block2 {
+  margin-bottom: 18px;
+}
+
+/*card*/
+.card3 {
+  width: 263px;
+  background-color: #3dc47e;
+  padding: 30px 25px 18px 25px;
+  margin: 50px;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 19px;
+}
+
+.card3_title3 {
+  color: #fff;
+  margin: 10px;
+}
+.card3_text3 {
+  color: red;
+  margin: 10px;
+}
+.card__img-block3 {
+  margin-bottom: 18px;
+}
+
+/*card*/
+.card4 {
+  width: 263px;
+  background-color: blue;
+  padding: 30px 25px 18px 25px;
+  margin: 50px;
+  border-radius: 20px;
+  text-align: left;
+  margin-bottom: 18px;
+}
+
+.card4_title4 {
+  color: red;
+  margin: 10px;
+}
+.card4_text4 {
+  color: #fff;
+  margin: 18px;
+}
+.card4__img-block4 {
+  margin-bottom: 18px;
+}
+/*card*/
+.card5 {
+  width: 263px;
+  background-color: #4cb9fc;
+  padding: 30px 25px 18px 25px;
+  margin: 50px;
+  border-radius: 20px;
+  text-align: left;
+}
+.card5_img-block5 {
+  text-align: center;
+  margin-bottom: 52px;
+}
+
+.card5_title5 {
+  color: #fff;
+}
+
+.card5_text {
+  color: #fff;
+  margin-bottom: 101px;
+}
+
+/*card*/
+.card6 {
+  width: 263px;
+  background-color: #4cb9fc;
+  padding: 106px 45px 13px 25px;
+  margin: 50px;
+  border-radius: 20px;
+  text-align: left;
+}
+.card6_text {
+  color: white;
+  padding-bottom: 131px;
+}
+.card6_title {
+  color: aqua;
+}
+/*card*/
+.card7 {
+  width: 263px;
+  background-color: #4267b2;
+  padding: 19px 25px 96px 25px;
+  margin: 50px;
+  border-radius: 20px;
+  text-align: center;
+}
+.card_title7 {
+  color: #fff;
+  margin-bottom: 210px;
+}
+.card_text7 {
+  color: white;
+  margin-top: 30px;
+}
+.card_img-block7 {
+  margin-top: 30px;
+}
